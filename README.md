@@ -1,4 +1,4 @@
 # LearnProgramming
-Java Course undertaken as a refresher
+Java Course undertaken 2020
 
-Owner nashpotatoes96/Naish O'Loughlin
+Author: <i><b>nashpotatoes96/Naish O'Loughlin</b></i>
