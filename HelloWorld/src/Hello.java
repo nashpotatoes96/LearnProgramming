@@ -1,0 +1,14 @@
+public class Hello {
+
+    public static void main(String[] args) {
+        System.out.println("Hello Naish");
+
+        int myFirstNumber = (10 + 5) + (2 * 10);
+        int mySecondNumber = 12;
+        int myThirdNumber = myFirstNumber * 2;
+        int myTotal = myFirstNumber + mySecondNumber + myThirdNumber;
+        System.out.println("My First: "+myFirstNumber + ", My Total: " + myTotal);
+        int myLastOne = 1000 - myTotal;
+        System.out.println("My Total less 1000: " + myLastOne);
+    }
+}
