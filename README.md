@@ -1,4 +1,5 @@
 # LearnProgramming
-Java Course undertaken 2020
+##Author: <i><b>nashpotatoes96/Naish O'Loughlin</b></i>
 
-Author: <i><b>nashpotatoes96/Naish O'Loughlin</b></i>
+Java Course<br>
+undertaken summer 2020<br>
