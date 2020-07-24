@@ -2,10 +2,24 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BarkingDog/BarkingDog.iml" filepath="$PROJECT_DIR$/BarkingDog/BarkingDog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecimalComparator/DecimalComparator.iml" filepath="$PROJECT_DIR$/DecimalComparator/DecimalComparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/EqualSumChecker/EqualSumChecker.iml" filepath="$PROJECT_DIR$/EqualSumChecker/EqualSumChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LearnProgramming.iml" filepath="$PROJECT_DIR$/.idea/LearnProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MegaBytesConverter/MegaBytesConverter.iml" filepath="$PROJECT_DIR$/MegaBytesConverter/MegaBytesConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PoundsAndKilogramsChallenge/PoundsAndKilogramsChallenge.iml" filepath="$PROJECT_DIR$/PoundsAndKilogramsChallenge/PoundsAndKilogramsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimativeTypeChallenge/PrimativeTypeChallenge.iml" filepath="$PROJECT_DIR$/PrimativeTypeChallenge/PrimativeTypeChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" filepath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" filepath="$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" />
       <module fileurl="file://$PROJECT_DIR$/TeenNumberChecker/TeenNumberChecker.iml" filepath="$PROJECT_DIR$/TeenNumberChecker/TeenNumberChecker.iml" />
     </modules>
   </component>
