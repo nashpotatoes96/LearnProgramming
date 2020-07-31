@@ -25,14 +25,14 @@ public class Main {
     }
 
     public static int calcFeetAndInchesToCentimeters(int feet, int inches) {
-        if (feet >= 0 && inches >= 0 && inches <= 12) {
+        if (feet < 0 && inches < 0 && inches > 12) {
             return -1;
         }
         return calcFeetAndInchesToCentimeters(inches + (feet * 12));
     }
 
     public static int calcFeetAndInchesToCentimeters(int inches) {
-        if (inches >= 0) {
+        if (inches < 0) {
             return -1;
         }
         return (int) (2.54 * inches);
