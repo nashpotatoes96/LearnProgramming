@@ -11,8 +11,7 @@ public class Main {
         calcFeetAndInchesToCentimeters(5, 9);
         calcFeetAndInchesToCentimeters(6, 0);
         calcFeetAndInchesToCentimeters(-6, 4);
-        double inchInCentimeter = calcFeetAndInchesToCentimeters(69);
-        System.out.println("69 inches is " + inchInCentimeter + " centimeters");
+        calcFeetAndInchesToCentimeters(69);
     }
 
     public static int calculateScore(String playerName, int score) {
@@ -30,20 +29,23 @@ public class Main {
         return 0;
     }
 
-    public static double calcFeetAndInchesToCentimeters(int feet, int inches) {
-        if (feet < 0 || inches < 0 || inches > 12) {
+    public static double calcFeetAndInchesToCentimeters(double feet, double inches) {
+        if (feet <0 || inches <0 || inches > 12) {
             System.out.println("Invalid value");
             return -1;
         }
-        System.out.println(feet + " feet and " + inches + " inches is " + calcFeetAndInchesToCentimeters(inches + (feet * 12)));
-        return calcFeetAndInchesToCentimeters(inches + (feet * 12));
+        double centimeters = 2.54 * (inches + (12 * feet));
+        System.out.println(feet + " feet and " + inches + " inches is " + centimeters);
+        return centimeters;
     }
 
-    public static double calcFeetAndInchesToCentimeters(int inches) {
-        if (inches < 0) {
+    public static double calcFeetAndInchesToCentimeters(double inches) {
+        if (inches <0) {
             System.out.println("Invalid negative value");
             return -1;
         }
-        return (2.54 * inches);
+        double feet = inches / 12;
+        inches = inches % 12;
+        return calcFeetAndInchesToCentimeters(feet, inches);
     }
 }
