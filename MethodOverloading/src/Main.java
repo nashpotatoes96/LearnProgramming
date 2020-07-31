@@ -7,6 +7,10 @@ public class Main {
         int newAnonScore = calculateScore(69);
         System.out.println("New score is " + newAnonScore);
         calculateScore();
+
+        calcFeetAndInchesToCentimeters(5, 9);
+        int inchInCentimeter = calcFeetAndInchesToCentimeters(69);
+        System.out.println("69 inches is " + inchInCentimeter + " centimeters");
     }
 
     public static int calculateScore(String playerName, int score) {
@@ -25,9 +29,10 @@ public class Main {
     }
 
     public static int calcFeetAndInchesToCentimeters(int feet, int inches) {
-        if (feet < 0 && inches < 0 && inches > 12) {
+        if (feet < 0 || inches < 0 || inches > 12) {
             return -1;
         }
+        System.out.println(feet + " feet and " + inches + " inches is " + calcFeetAndInchesToCentimeters(inches + (feet * 12)));
         return calcFeetAndInchesToCentimeters(inches + (feet * 12));
     }
 
