@@ -32,6 +32,7 @@ public class Main {
 
     public static double calcFeetAndInchesToCentimeters(int feet, int inches) {
         if (feet < 0 || inches < 0 || inches > 12) {
+            System.out.println("Invalid value");
             return -1;
         }
         System.out.println(feet + " feet and " + inches + " inches is " + calcFeetAndInchesToCentimeters(inches + (feet * 12)));
@@ -40,6 +41,7 @@ public class Main {
 
     public static double calcFeetAndInchesToCentimeters(int inches) {
         if (inches < 0) {
+            System.out.println("Invalid negative value");
             return -1;
         }
         return (2.54 * inches);
