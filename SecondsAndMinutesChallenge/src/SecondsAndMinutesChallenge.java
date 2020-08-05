@@ -7,7 +7,7 @@ public class SecondsAndMinutesChallenge {
         }
 
         int hours = minutes / 60;
-        int minutesRemaining = hours != 0 ? minutes % (hours * 60) : minutes;
+        int minutesRemaining = minutes % 60;
         String time = String.format("%02d", hours) + "h " +
                 String.format("%02d", minutesRemaining) + "m " +
                 String.format("%02d", seconds) + "s";
@@ -20,7 +20,7 @@ public class SecondsAndMinutesChallenge {
             return "Invalid value";
         }
         int minutes = seconds / 60;
-        int secondsRemaining = minutes != 0 ? seconds % (minutes  * 60): seconds;
+        int secondsRemaining = seconds % 60;
 
         return getDurationString(minutes, secondsRemaining);
     }
