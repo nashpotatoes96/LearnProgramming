@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/BarkingDog/BarkingDog.iml" filepath="$PROJECT_DIR$/BarkingDog/BarkingDog.iml" />
       <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
       <module fileurl="file://$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" filepath="$PROJECT_DIR$/DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecimalComparator/DecimalComparator.iml" filepath="$PROJECT_DIR$/DecimalComparator/DecimalComparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/EqualSumChecker/EqualSumChecker.iml" filepath="$PROJECT_DIR$/EqualSumChecker/EqualSumChecker.iml" />
       <module fileurl="file://$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" />
@@ -19,6 +20,8 @@
       <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinutesToYearsDaysCalculatorChallenge/MinutesToYearsDaysCalculatorChallenge.iml" filepath="$PROJECT_DIR$/MinutesToYearsDaysCalculatorChallenge/MinutesToYearsDaysCalculatorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberInWord/NumberInWord.iml" filepath="$PROJECT_DIR$/NumberInWord/NumberInWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberOfDaysInMonth/NumberOfDaysInMonth.iml" filepath="$PROJECT_DIR$/NumberOfDaysInMonth/NumberOfDaysInMonth.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlayingCatChallenge/PlayingCatChallenge.iml" filepath="$PROJECT_DIR$/PlayingCatChallenge/PlayingCatChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/PoundsAndKilogramsChallenge/PoundsAndKilogramsChallenge.iml" filepath="$PROJECT_DIR$/PoundsAndKilogramsChallenge/PoundsAndKilogramsChallenge.iml" />
@@ -26,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" filepath="$PROJECT_DIR$/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" filepath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" filepath="$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
       <module fileurl="file://$PROJECT_DIR$/TeenNumberChecker/TeenNumberChecker.iml" filepath="$PROJECT_DIR$/TeenNumberChecker/TeenNumberChecker.iml" />
     </modules>
   </component>
