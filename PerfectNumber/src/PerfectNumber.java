@@ -7,7 +7,7 @@ public class PerfectNumber {
         }
 
         int sumFactors = 0;
-        for (int i = number; i >= 1; i--) {
+        for (int i = number/2; i >= 1; i--) {
 
             if ((number % i == 0) && i != number) {
                 sumFactors += i;
